@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1529705380 source:e:\documentos\faculdade\estrutura de dados\trabalho2\filaprio.c
+	<stdio.h>
+	"filaprio.h"
+
+1529697204 e:\documentos\faculdade\estrutura de dados\trabalho2\filaprio.h
+
+1529705757 source:e:\documentos\faculdade\estrutura de dados\trabalho2\mainq2.c
+	<stdio.h>
+	<stdlib.h>
+	"filaprio.h"
+
